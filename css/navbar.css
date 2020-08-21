@@ -1,0 +1,26 @@
+body{background-color:#fcfcfc;}
+
+.logo{
+	height:30px;
+	margin-top:16px;
+	margin-left:10px;
+}
+@media only screen and (max-width: 992px){
+	.logo{			
+		margin-left:0px;
+	}
+}
+.button-collapse{
+	margin-left:5px;
+}
+
+.side-nav li  a{
+	color:#42a5f5 !important;
+	font-size:15px;	
+}
+
+.dropdown-content a{
+	color:#42a5f5 !important;
+}
+
+.thumb-icon{cursor:pointer;}
